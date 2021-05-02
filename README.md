@@ -8,6 +8,7 @@
 * Python 3.x
 * Pygame
 
+# A glimpse of the Visualizer 
 
 https://user-images.githubusercontent.com/56580646/116806903-a5f41380-ab4d-11eb-804b-a3dcaee891d6.mp4
 
